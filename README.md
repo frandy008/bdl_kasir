@@ -1,61 +1,16 @@
-# Kiaalap admin dashboard
+# Core Template
 Free admin dashboard template
 
 # Preview
 
-![Kiaalap admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/kiaalap-free-bootstrap-admin-dashboard-template.jpg)
+<img width="100%" src="https://1.bp.blogspot.com/-ej5bh3jileg/YBtpH2loPCI/AAAAAAAAFsU/rg0yN-kaQCcSp2wOli328Gj36HXfz3NoQCLcBGAsYHQ/s16000/bdl_kasir.PNG">
 
-# Overview
-Kiaalap is a full-featured, multipurpose, premium bootstrap admin template built with Bootstrap 4 Framework, HTML5, CSS and JQuery.
+# Fitur
+- Level management.
+- Data Master : "Brand, Produk, Kategori, Suplier, Satuan"
+- Barang Masuk, Barang Keluar
+- Laporan : "Penjualan, Barang Masuk, Barang Keluar"
+- <strikethrough>Direct Print masih dalam tahap pengembangan</strikethrough>
 
-It is a fully responsive bootstrap admin template/bootstrap admin dashboard template that comes with a huge collection of reusable UI components & plugins.
-
-We believe we have covered everything you need to set up an All kind of website.If there is something that you would like to know then we are happy to help you out.
-
-# Template Features:
-
-- 50+ PAGES
-- VALID HTML5 & CSS3
-- MATERIAL DESIGN
-- RESPONSIVE LAYOUT
-- 3 HOME VERSIONS
-- NEAT, CLEAN AND SIMPLE DESIGN
-- CREATIVE AND MODERN DESIGN
-- BUILT BASED ON BOOTSTRAP 3+
-- FULLY RESPONSIVE
-- CROSS BROWSER OPTIMIZATION
-- WELL COMMENTED HTML & CSS FILES
-- GOOGLE FONTS
-- GOOGLE MAP
-- C3 AND D3 CHARTS
-- PLOT CHART
-- PEITY CHARTS
-- SPARKLINES
-- CHOSEN
-- CODEMIRROR
-- COLORPICKER
-- IMAGES CROPPER
-- DATA MAP
-- DATEPICKER
-- X-EDITABLE
-- DUAL LISTBOX
-- GOOGLE MAPS
-- ICHECK
-- RANGESLIDER
-- JVECTORMAP
-- KNOB
-- MAPAEL
-- PASSWORD METER
-- PDF VIEWER
-- TOUCHSPIN
-- JSTREE
-- LOBIBOX
-- SUMMERNOTE
-
-# Other resources:
-
-- [Bootstrap Dashboards](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
-- [Angular Dashboards](https://colorlib.com/wp/angularjs-admin-templates/)
-- [Free Admin Dashboards](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
-- [Website Templates](https://colorlib.com/wp/templates/)
-- [Free WordPress Themes](https://colorlib.com/wp/free-wordpress-themes/)
+# Contact:
+- Instagram : https://instagram.com/frandy008

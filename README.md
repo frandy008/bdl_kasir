@@ -17,4 +17,4 @@ Free admin dashboard template
 - <strikethrough>Direct Print masih dalam tahap pengembangan</strikethrough>
 
 # Contact:
-- Instagram : https://instagram.com/frandy008
+- Instagram : https://instagram.com/im_frandy_
